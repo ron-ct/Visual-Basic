@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\bin\Debug\net8.0\SumTwoNumbersConsoleApp.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\bin\Debug\net8.0\SumTwoNumbersConsoleApp.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\bin\Debug\net8.0\SumTwoNumbersConsoleApp.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\bin\Debug\net8.0\SumTwoNumbersConsoleApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\bin\Debug\net8.0\SumTwoNumbersConsoleApp.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\refint\SumTwoNumbersConsoleApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\SumTwoNumbersConsoleApp.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SumTwoNumbersConsoleApp\obj\Debug\net8.0\ref\SumTwoNumbersConsoleApp.dll

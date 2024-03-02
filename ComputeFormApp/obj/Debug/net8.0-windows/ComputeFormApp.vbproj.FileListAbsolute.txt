@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.ComputeForm.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\bin\Debug\net8.0-windows\ComputeFormApp.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\bin\Debug\net8.0-windows\ComputeFormApp.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\bin\Debug\net8.0-windows\ComputeFormApp.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\bin\Debug\net8.0-windows\ComputeFormApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\bin\Debug\net8.0-windows\ComputeFormApp.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\refint\ComputeFormApp.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ComputeFormApp.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ComputeFormApp\obj\Debug\net8.0-windows\ref\ComputeFormApp.dll
