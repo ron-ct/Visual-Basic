@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.MultiplicationTableForm.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\bin\Debug\net8.0-windows\GenerateAndDisplayMultiplication.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\bin\Debug\net8.0-windows\GenerateAndDisplayMultiplication.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\bin\Debug\net8.0-windows\GenerateAndDisplayMultiplication.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\bin\Debug\net8.0-windows\GenerateAndDisplayMultiplication.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\bin\Debug\net8.0-windows\GenerateAndDisplayMultiplication.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\refint\GenerateAndDisplayMultiplication.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\GenerateAndDisplayMultiplication.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\GenerateAndDisplayMultiplication\obj\Debug\net8.0-windows\ref\GenerateAndDisplayMultiplication.dll

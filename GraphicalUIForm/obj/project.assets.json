@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\VisualBasic\\Visual-Basic\\GraphicalUIForm\\GraphicalUIForm.vbproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\VB-App-Programming\\Visual-Basic\\GraphicalUIForm\\GraphicalUIForm.vbproj",
       "projectName": "GraphicalUIForm",
-      "projectPath": "C:\\Users\\USER\\Documents\\VisualBasic\\Visual-Basic\\GraphicalUIForm\\GraphicalUIForm.vbproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\VB-App-Programming\\Visual-Basic\\GraphicalUIForm\\GraphicalUIForm.vbproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\VisualBasic\\Visual-Basic\\GraphicalUIForm\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\VB-App-Programming\\Visual-Basic\\GraphicalUIForm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("GraphicalUIForm"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b1644357363eb4b57726c928a75d8daa8a39e18"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+318ad8c9951b2508d23701fc69f7be03d1c63a74"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("GraphicalUIForm"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("GraphicalUIForm"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

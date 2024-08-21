@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.DemoForm.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\bin\Debug\net8.0-windows\DemoForm.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\bin\Debug\net8.0-windows\DemoForm.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\bin\Debug\net8.0-windows\DemoForm.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\bin\Debug\net8.0-windows\DemoForm.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\bin\Debug\net8.0-windows\DemoForm.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\refint\DemoForm.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\DemoForm.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\DemoForm\obj\Debug\net8.0-windows\ref\DemoForm.dll

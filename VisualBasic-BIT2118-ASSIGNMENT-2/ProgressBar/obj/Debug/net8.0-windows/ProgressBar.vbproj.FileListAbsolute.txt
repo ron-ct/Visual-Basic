@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\bin\Debug\net8.0-windows\ProgressBar.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\refint\ProgressBar.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ref\ProgressBar.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\ProgressBar\obj\Debug\net8.0-windows\ProgressBar.ProgressForm.resources

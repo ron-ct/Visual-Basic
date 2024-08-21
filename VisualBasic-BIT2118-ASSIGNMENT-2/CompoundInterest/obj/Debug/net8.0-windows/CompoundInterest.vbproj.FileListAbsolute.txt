@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\bin\Debug\net8.0-windows\CompoundInterest.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\bin\Debug\net8.0-windows\CompoundInterest.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\bin\Debug\net8.0-windows\CompoundInterest.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\bin\Debug\net8.0-windows\CompoundInterest.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\bin\Debug\net8.0-windows\CompoundInterest.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.Form1.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\refint\CompoundInterest.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\CompoundInterest.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\CompoundInterest\obj\Debug\net8.0-windows\ref\CompoundInterest.dll

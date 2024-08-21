@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\bin\Debug\net8.0-windows\NextCharAlphabeticalOrder.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\bin\Debug\net8.0-windows\NextCharAlphabeticalOrder.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\bin\Debug\net8.0-windows\NextCharAlphabeticalOrder.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\bin\Debug\net8.0-windows\NextCharAlphabeticalOrder.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\bin\Debug\net8.0-windows\NextCharAlphabeticalOrder.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.Form1.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\refint\NextCharAlphabeticalOrder.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\NextCharAlphabeticalOrder.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\NextCharAlphabeticalOrder\obj\Debug\net8.0-windows\ref\NextCharAlphabeticalOrder.dll

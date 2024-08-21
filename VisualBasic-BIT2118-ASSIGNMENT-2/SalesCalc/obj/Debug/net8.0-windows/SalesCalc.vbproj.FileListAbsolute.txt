@@ -1,0 +1,17 @@
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.SalesCalculatorForm.resources
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.vbproj.GenerateResource.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.AssemblyInfo.vb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.vbproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.sourcelink.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\bin\Debug\net8.0-windows\SalesCalc.exe
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\bin\Debug\net8.0-windows\SalesCalc.deps.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\bin\Debug\net8.0-windows\SalesCalc.runtimeconfig.json
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\bin\Debug\net8.0-windows\SalesCalc.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\bin\Debug\net8.0-windows\SalesCalc.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\refint\SalesCalc.dll
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.pdb
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\SalesCalc.genruntimeconfig.cache
+C:\Users\USER\Documents\VisualBasic\Visual-Basic\SalesCalc\obj\Debug\net8.0-windows\ref\SalesCalc.dll
